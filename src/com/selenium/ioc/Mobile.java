@@ -28,6 +28,8 @@ public class Mobile {
 
         System.out.println("another change here");
 
+        System.out.println("3 way merge");
+
 
       /*  Sim airtel=(Airtel) applicationContext.getBean("airtel");
         airtel.calling();
