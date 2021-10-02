@@ -18,6 +18,7 @@ public class Mobile {
         System.out.println("Feature branch");
         System.out.println("Hi");
         System.out.println("Fixed bug in feature");
+        System.out.println("Another Bug fixed");
 
 
       /*  Sim airtel=(Airtel) applicationContext.getBean("airtel");
