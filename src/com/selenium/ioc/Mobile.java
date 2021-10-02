@@ -32,6 +32,8 @@ public class Mobile {
 
         System.out.println("Some other change");
 
+        System.out.println("Merge conflict");
+
 
       /*  Sim airtel=(Airtel) applicationContext.getBean("airtel");
         airtel.calling();
