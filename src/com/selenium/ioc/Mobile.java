@@ -18,7 +18,7 @@ public class Mobile {
         System.out.println("In master change press lease");
         System.out.println("Feature branch");
         System.out.println("Hi");
-        System.out.println("Fixed bug in feature *********************************");
+        System.out.println("Fixed bug in feature");
         System.out.println("Another Bug fixed");
         System.out.println("Short feature added");
 
