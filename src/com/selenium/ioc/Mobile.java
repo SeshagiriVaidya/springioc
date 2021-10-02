@@ -13,6 +13,7 @@ public class Mobile {
         Sim sim=applicationContext.getBean("sim",Sim.class);
         sim.calling();
         sim.data();
+        System.out.println("Hi");
 
 
       /*  Sim airtel=(Airtel) applicationContext.getBean("airtel");
