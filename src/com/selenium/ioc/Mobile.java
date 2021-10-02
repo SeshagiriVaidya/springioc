@@ -22,6 +22,8 @@ public class Mobile {
         System.out.println("Another Bug fixed");
         System.out.println("Short feature added");
 
+        System.out.println("Testing 1");
+
 
       /*  Sim airtel=(Airtel) applicationContext.getBean("airtel");
         airtel.calling();
