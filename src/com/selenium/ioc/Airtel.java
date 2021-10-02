@@ -6,6 +6,7 @@ public class Airtel implements Sim{
     @Override
     public void calling() {
         System.out.println("Calling using Airtel Sim");
+        System.out.println("Inside the Airtel");
 
     }
 
